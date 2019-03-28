@@ -14,7 +14,6 @@ public class HomeController {
         modelAndView.setViewName("index");
         return  modelAndView;
     }
-
     @GetMapping("/{name}")
     @ResponseBody
     public String home(@PathVariable(name="name") String name){
