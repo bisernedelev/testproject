@@ -10,5 +10,4 @@ public class    TestprojectApplication {
         SpringApplication.run(TestprojectApplication.class, args);
         System.out.println(">O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O>O");
     }
-
 }
